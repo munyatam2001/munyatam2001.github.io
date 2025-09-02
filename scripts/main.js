@@ -111,11 +111,12 @@ function mount() {
 			contactEmail.textContent = emailMatch[0];
 			contactEmail.href = `mailto:${emailMatch[0]}`;
 		}
-		const linkedinMatch = String(resumeData.contact).match(/linkedin\S*/i);
+		const linkedinMatch = String(resumeData.contact).match(/linkedin[\w./-]*/i);
 		if (linkedinMatch && contactLinkedIn) {
-			const base = linkedinMatch[0].startsWith('http') ? linkedinMatch[0] : `https://www.${linkedinMatch[0]}.com`;
-			contactLinkedIn.textContent = base.replace(/^https?:\/\//, '');
-			contactLinkedIn.href = base;
+			let handle = linkedinMatch[0].replace(/[,;|].*$/, '');
+			if (!handle.includes('http')) handle = `https://www.${handle.replace(/^(www\.)?/, '')}`;
+			contactLinkedIn.textContent = handle.replace(/^https?:\/\//, '');
+			contactLinkedIn.href = handle;
 		}
 	}
 }
