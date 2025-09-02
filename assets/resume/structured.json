@@ -1,0 +1,106 @@
+{
+  "name": "Munyatam Bhardwaj",
+  "contact": "munyatam2001@gmail.com | (+91) 7027114881 | LinkedIn",
+  "summary": "munyatam2001@gmail.com | (+91) 7027114881 LinkedIn (open to opportunities across India & international)",
+  "experience_raw": [
+    "AI-driven solutions \u25cf Currently working as Staff Sales Consultant (IC2) at Oracle, designing and implementing large-scale cloud Oracle India Pvt. Ltd. Cloud Solution Engineer Sept 2022 - Present (3 years) Cloud Solution Engineer (IC1) \u2192 Cloud Solution Engineer (IC2) (Promoted June 2025) \u25cf"
+  ],
+  "projects_raw": [
+    "DBMS, Operation Insights. Building end-to-end data pipelines and monitoring solutions for enterprise customers \u25cf Outstanding performer with Employee of the Quarter recognition, promoted to IC2 within 2 years, and recognized as SME in Observability & Management domain across JAPAC region \u25cf Previously worked as Data Engineer Intern at Wiley Edge, and as Consultant at Morgan Stanley Fusion Application logs, serving as SME for observability domain across India, JAPAC, and NA regions \u25cf Engineered fusion application logs ingestion pipeline - designed end-to-end solution sending audit logs from Fusion Apps to OCI Logging \u2192 SIEM tools/Logging Analytics for comprehensive analysis with custom dashboards for security insights \u25cf Reduced manual monitoring effort and enabled real-time security threat detection for enterprise customers. \u25cf Developed integration between Logging Analytics service and VBCS for ISV customers, enabling seamless log analytics capabilities within custom applications \u25cf Streamlined ISV onboarding process reducing integration time from 2 weeks to 3 days \u25cf Built MySQL Audit Logs to OCI Logging Analytics pipeline via Object Storage with automated log masking using OCI Functions for data security compliance \u25cf Created OCI Logging Analytics Usage Reporting Script with compartment-wise analysis, enabling cost optimization and resource management across tenancies \u25cb Cost monitoring solution adopted across Oracle internal teams and widely reused by customers \u25cf Developed comprehensive Object Storage monitoring dashboard - built end-to-end monitoring solution tracking complete Object Storage activity with custom Functions integration for automated notifications on bulk uploads \u25cb Created advanced analytics capabilities using custom Logging Analytics queries to provide insights on storage utilization by user, file type distribution (images, PDFs, etc.), and usage patterns \u25cb Enhanced operational visibility enabling proactive storage management and cost optimization for enterprise customers \u25cf Delivered centralized audit and compliance monitoring solution for Oracle Fusion Applications with automated alerting and custom dashboards Improved compliance reporting and reduced audit preparation time significantly \u25cf \u25cf Contributed 6 Knowledge Management assets - 2 reused widely across organization, with cost monitoring asset becoming standard reference for teams globally \u25cf Collaborated across regions with Product Managers, Engineering, and customers - to enable complex use cases and scale solutions Tech Stack - Python, OCI Services, Kafka, SQL, Linux, Shell Scripting, Fusion Applications, APEX \u25cf Wiley Edge/Morgan Stanley Data Engineer Intern/ Consultant March 2022 \u2013 Aug 2022 (6 months) \u25cf Worked with Morgan Stanley\u2019s Finance and Risk teams to enhance reporting and compliance workflows on the AXIOM regulatory reporting platform, ensuring accuracy and timeliness of submissions \u25cf Designed and optimized (teamwork) ETL pipelines using Python and MySQL to process large volumes of financial data for downstream analytics and regulatory reporting Tech Stack - Python, MySQL, Axiom, AI/ML, Data Analytics \u25cf Certifications \u25cf Oracle Cloud Infrastructure 2025 Certified Generative AI Professional \u25cf Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate \u25cf Oracle APEX Cloud Developer Certified Professional \u25cf Oracle Cloud Infrastructure 2022 Observability and Management Certified Professional \u25cf Oracle Cloud Data Management 2022 Foundations Certified Associate \u25cf Oracle Machine Learning using Autonomous Database 2022 Certified Associate \u25cf Oracle Cloud Infrastructure 2022 Certified Architect Associate \u25cf Oracle Cloud Infrastructure 2022 Certified Foundations Associate"
+  ],
+  "education_raw": [
+    "Guru Gobind Singh Indraprastha University B.Tech. in Computer Science and Engineering Aug 2018 - June 2022 CGPA: 8.75 / 10 Relevant Coursework: Object Oriented Programming, Database Management System, Data Structures and Algorithms, Operating Systems, Computer Networks, Machine Learning, Data Mining, System and Logic Design, etc. Achievements & Leadership \u25cf Outstanding Rating FY25 and Employee of the Quarter (Q1 FY25) at Oracle - recognized for exceptional technical contribution and customer impact \u25cf Gradhacks Project Winner 2024 (Oracle internal hackathon) - developed Health Camp Management Portal using Oracle APEX and AI/ML tools, demonstrating innovation in healthcare technology \u25cf Madhacks Regional Finalist 2023 (Oracle internal hackathon) - competed at regional level (JAPAC) awareness programs \u25cf Served as the Executive Lead of ACM USICT Club, organized learning sessions and competitions, fostering a vibrant tech community and mentoring junior members \u25cf GATE Qualified 2021, 2022 \u25cf Recommended by SSB Bhopal for Indian Army Officer position (2019) \u25cf Recommended by 1 AFSB Dehradun for Indian Airforce Officer position (2019)"
+  ],
+  "skills": [
+    "APEX",
+    "AXIOM \u25cf AI/ML: Oracle AI/ML Foundation",
+    "Dashboards",
+    "DBMS",
+    "Fusion Applications",
+    "GenAI",
+    "Java",
+    "Linux",
+    "Management Agent",
+    "MATLAB",
+    "Microservices",
+    "NumPy \u25cf Languages: C/C++",
+    "Object Storage",
+    "OCI Connectors",
+    "OCI Functions",
+    "OCI Logging Analytics",
+    "OCI Resource Manager",
+    "OCI Streaming Service",
+    "Pandas",
+    "Python",
+    "Shell Scripting \u25cf Others: MySQL",
+    "SIEM Tools",
+    "SQL",
+    "TensorFlow",
+    "VBCS"
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/munyatam-bhardwaj/",
+  "experience_linkedin": [
+    {
+      "role": "data pipelines, and cost optimization dashboards for enterprise",
+      "company": "customers. Passionate about scalable cloud solutions, customer",
+      "period": "success, and continuous learning."
+    },
+    {
+      "role": "Experience",
+      "company": "Oracle",
+      "period": "3 years 1 month"
+    },
+    {
+      "role": "Cloud Solution Engineer - IC2",
+      "company": "June 2025 - Present (4 months)",
+      "period": "Bengaluru, Karnataka, India"
+    },
+    {
+      "role": "Cloud Solution Engineer - IC1",
+      "company": "September 2022 - May 2025 (2 years 9 months)",
+      "period": "Bengaluru, Karnataka, India"
+    },
+    {
+      "role": "Wiley Edge",
+      "company": "Software Engineer",
+      "period": "March 2022 - August 2022 (6 months)"
+    },
+    {
+      "role": "India",
+      "company": "Education",
+      "period": "Guru Gobind Singh Indraprastha University"
+    },
+    {
+      "role": "Page 1 of 2",
+      "company": "Bachelor of Technology, Information Technology \u00b7 (August 2018 - July 2022)",
+      "period": "Montfort School, Delhi"
+    },
+    {
+      "role": "\u00b7 (June 2016 - March 2018)",
+      "company": "Mohan Lal Dayal Vinay Mandir (Parle) School, Neemrana, Raj.",
+      "period": "\u00b7 (April 2012 - March 2016)"
+    }
+  ],
+  "education_linkedin": [
+    {
+      "school": "Guru Gobind Singh Indraprastha University",
+      "degree": "Page 1 of 2",
+      "period": "Bachelor of Technology, Information Technology \u00b7 (August 2018 - July 2022)"
+    },
+    {
+      "school": "Montfort School, Delhi",
+      "degree": "\u00b7 (June 2016 - March 2018)",
+      "period": "Mohan Lal Dayal Vinay Mandir (Parle) School, Neemrana, Raj."
+    },
+    {
+      "school": "\u00b7 (April 2012 - March 2016)",
+      "degree": "Bright Day School, Vadodara, Guj.",
+      "period": "\u00b7 (April 2011 - March 2012)"
+    },
+    {
+      "school": "Ambe School, Vadodara, Guj.",
+      "degree": "\u00b7 (April 2010 - March 2011)",
+      "period": "Page 2 of 2"
+    }
+  ]
+}
