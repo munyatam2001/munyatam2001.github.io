@@ -89,6 +89,7 @@ body {
 .timeline-item { background: var(--panel); border: 1px solid var(--border); border-radius: 0.75rem; padding: 1rem; }
 .timeline-item .heading { display: flex; justify-content: space-between; gap: 0.75rem; }
 .muted { color: var(--muted); }
+.placeholder { opacity: 0.7; }
 
 /* Section headings */
 .section h2 { font-size: clamp(1.35rem, 2.2vw, 1.75rem); margin: 0 0 1rem; letter-spacing: 0.2px; }
